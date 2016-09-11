@@ -9,5 +9,8 @@
 ##性能优化  
 * [内存泄漏总结](https://segmentfault.com/a/1190000006852540) (补充下Timer和TimerTask也有可能导致内存泄漏)  
   
+##新技术  
+* [给Android开发者的RxJava详解](http://gank.io/post/560e15be2dca930e00da1083) (这篇是入门 RxJava比较好的文章，作者是个大牛)  
+
 ##周围技术  
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) (PS:这是我看过讲得最通俗易懂的教程了，一口气看完不费劲)  
