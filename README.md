@@ -18,6 +18,7 @@
 * [给Android开发者的RxJava详解](http://gank.io/post/560e15be2dca930e00da1083) (这篇是入门 RxJava比较好的文章，作者是个大牛)  
 * [RxJava系列](http://www.jianshu.com/p/ec9849f2e510) (链接是系列的第一篇,该系列对操作符的介绍比抛物线的那篇介绍得要完整，作者当前还在持续更新中)  
 * [Rxjava+Retrofit 实现全局过期 Token 自动刷新](http://alighters.com/blog/2016/05/02/rxjava-plus-retrofitshi-xian-wang-luo-dai-li/)  
+* [RxJava文档中文版](https://mcxiaoke.gitbooks.io/rxdocs/content/) (当前还没看过，mark一下)
 
 ##周围技术  
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) (PS:这是我看过讲得最通俗易懂的教程了，一口气看完不费劲)  
