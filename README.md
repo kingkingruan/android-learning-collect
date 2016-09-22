@@ -13,6 +13,8 @@
   
 ##性能优化  
 * [内存泄漏总结](https://segmentfault.com/a/1190000006852540) (补充下Timer和TimerTask也有可能导致内存泄漏)  
+* [App优化之消除卡顿](http://www.jianshu.com/p/1fb065c806e6) (系列文章，还没学习完，先做个记录)  
+* 
   
 ##开源框架  
 * [Retrofit 2.0使用－补充篇](http://www.jianshu.com/p/93153b34310e) (一些使用Retrofit时的技巧)  
