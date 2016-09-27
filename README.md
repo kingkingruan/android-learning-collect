@@ -5,7 +5,8 @@
 ##基础点  
 * [Context完全解析，你所不知道的Context各种细节](http://blog.csdn.net/guolin_blog/article/details/47028975) (来至于郭大神)  
 * [Context都没弄明白，还怎么做Android开发](http://mp.weixin.qq.com/s?__biz=MzA3NzM0OTMxNA==&mid=2652285292&idx=1&sn=e5f20349ddc3b2407a9a97c24f13c9e9&scene=1&srcid=09115paVS9R6DllvCoTcPLNH#rd) (这篇是参考郭大神的，建议先看完这篇再看郭大神的)
-* [深入理解Android之Attr&Style&Theme](http://mp.weixin.qq.com/s?__biz=MzIzMjE1Njg4Mw==&mid=2650117771&idx=1&sn=d9c4483756441bf03b1a2811a2e71fbc#rd)  
+* [深入理解Android之Attr&Style&Theme](http://mp.weixin.qq.com/s?__biz=MzIzMjE1Njg4Mw==&mid=2650117771&idx=1&sn=d9c4483756441bf03b1a2811a2e71fbc#rd) 
+* [Android Support Library的前世今生](http://www.jianshu.com/p/f5f9a4fd22e8) (一直都用着，却并不了解其初衷和历史)  
 
 ##开发小技巧  
 * [防止过快点击造成多次事件](http://blog.csdn.net/mrzhang_happy/article/details/51087765)  
@@ -25,7 +26,12 @@
 * [Rxjava+Retrofit 实现全局过期 Token 自动刷新](http://alighters.com/blog/2016/05/02/rxjava-plus-retrofitshi-xian-wang-luo-dai-li/)  
 * [RxJava文档中文版](https://mcxiaoke.gitbooks.io/rxdocs/content/) (当前还没看过，mark一下)  
 * [是时候学习RxJava了](http://www.jianshu.com/p/8cf84f719188) (这篇文章没讲具体的语法，介绍了基于RxJava的使用，例如RxBus,RxBinding等等)  
-* [RxJava实战](http://www.jianshu.com/p/64aa976a46be#) (语法讲解得比较仔细)
+* [RxJava实战](http://www.jianshu.com/p/64aa976a46be#) (语法讲解得比较仔细)  
+  
+##Dagger 2  
+* [dagger2让你爱不释手-基础依赖注入框架篇](http://www.jianshu.com/p/cd2c1c9f68d4) (又要佩服作者的写作能力，由简入难，清晰明了)
 
 ##周围技术  
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) (PS:这是我看过讲得最通俗易懂的教程了，一口气看完不费劲)  
+* [Java ClassLoader基础及加载不同依赖Jar中的公共类](http://www.trinea.cn/android/java-loader-common-class/) (又是篇大神写的文章，如果你想了解插件化技术，那么对ClassLoader的理解是非常基础的)  
+* [公共技术点之依赖注入](http://a.codekk.com/detail/Android/%E6%89%94%E7%89%A9%E7%BA%BF/%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5) (作者是上面的RxJava详解的作者，很短的一篇文章，但对于依赖注入的讲解真的是非常非常清晰，大神请收下我的膝盖)
