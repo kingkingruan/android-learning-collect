@@ -15,7 +15,7 @@
 ##性能优化  
 * [内存泄漏总结](https://segmentfault.com/a/1190000006852540) (补充下Timer和TimerTask也有可能导致内存泄漏)  
 * [App优化之消除卡顿](http://www.jianshu.com/p/1fb065c806e6) (系列文章，还没学习完，先做个记录)  
-* 
+* [Android泄漏模式：View中的订阅](http://www.jianshu.com/p/73f347c028e4)
   
 ##开源框架  
 * [Retrofit 2.0使用－补充篇](http://www.jianshu.com/p/93153b34310e) (一些使用Retrofit时的技巧)  
@@ -34,4 +34,6 @@
 ##周围技术  
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) (PS:这是我看过讲得最通俗易懂的教程了，一口气看完不费劲)  
 * [Java ClassLoader基础及加载不同依赖Jar中的公共类](http://www.trinea.cn/android/java-loader-common-class/) (又是篇大神写的文章，如果你想了解插件化技术，那么对ClassLoader的理解是非常基础的)  
-* [公共技术点之依赖注入](http://a.codekk.com/detail/Android/%E6%89%94%E7%89%A9%E7%BA%BF/%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5) (作者是上面的RxJava详解的作者，很短的一篇文章，但对于依赖注入的讲解真的是非常非常清晰，大神请收下我的膝盖)
+* [公共技术点之依赖注入](http://a.codekk.com/detail/Android/%E6%89%94%E7%89%A9%E7%BA%BF/%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5) (作者是上面的RxJava详解的作者，很短的一篇文章，但对于依赖注入的讲解真的是非常非常清晰，大神请收下我的膝盖)  
+* [深入gradle](http://www.infoq.com/cn/articles/android-in-depth-gradle) （写得真的是非常棒，看完后对编译的流程有了比较清晰的了解）
+* [写给Android开发者的混淆使用手册](http://mp.weixin.qq.com/s?__biz=MzI4NTQ2OTI4MA==&mid=2247483651&idx=1&sn=85f0d6c6a0f6c4f2ece97429f423c51c&chksm=ebeafe0cdc9d771a31344d0d6861e3b864bfe36d46652770aa522631eb0115a754e1be579d3b#rd) (混淆入门，看这篇文章就够了)
