@@ -7,6 +7,9 @@
 * [Context都没弄明白，还怎么做Android开发](http://mp.weixin.qq.com/s?__biz=MzA3NzM0OTMxNA==&mid=2652285292&idx=1&sn=e5f20349ddc3b2407a9a97c24f13c9e9&scene=1&srcid=09115paVS9R6DllvCoTcPLNH#rd) (这篇是参考郭大神的，建议先看完这篇再看郭大神的)
 * [深入理解Android之Attr&Style&Theme](http://mp.weixin.qq.com/s?__biz=MzIzMjE1Njg4Mw==&mid=2650117771&idx=1&sn=d9c4483756441bf03b1a2811a2e71fbc#rd) 
 * [Android Support Library的前世今生](http://www.jianshu.com/p/f5f9a4fd22e8) (一直都用着，却并不了解其初衷和历史)  
+  
+##源码分析  
+* [ViewPager与PagerAdapter深度解析](http://blog.csdn.net/zzxzhyt/article/details/50689308)  
 
 ##开发小技巧  
 * [防止过快点击造成多次事件](http://blog.csdn.net/mrzhang_happy/article/details/51087765)  
